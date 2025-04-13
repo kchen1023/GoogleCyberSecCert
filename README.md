@@ -1,1 +1,1 @@
-contains a list of assignments i've completed through the Google Cybersecurty Professional Certificate course
+contains a practice assignments i've completed through the Google Cybersecurty Professional Certificate course
